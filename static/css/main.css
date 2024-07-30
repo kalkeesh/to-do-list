@@ -1,0 +1,46 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.card {
+    background-color: #868383;
+    border: none;
+    border-radius: 10px;
+}
+
+h3 {
+    color: #007bff;
+}
+
+input[type='submit'] {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type='submit']:hover {
+    background-color: #0056b3;
+}
+
+a.btn-sm {
+    color: white;
+}
+
+a.btn-sm.btn-warning {
+    background-color: #ffc107;
+}
+
+a.btn-sm.btn-danger {
+    background-color: #dc3545;
+}
+
+a.btn-sm:hover {
+    opacity: 0.8;
+}
+
+strike {
+    color: #6c757d;
+}

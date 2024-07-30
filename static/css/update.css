@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.card {
+    background-color: #a4a1a1;
+    border: none;
+    border-radius: 10px;
+}
+
+h3 {
+    color: #007bff;
+}
+
+input[type='submit'], .btn-success {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type='submit']:hover, .btn-success:hover {
+    background-color: #218838;
+}

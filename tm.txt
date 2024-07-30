@@ -1,0 +1,14 @@
+myproject/
+├── myapp/
+│   ├── views.py
+│   └── ...
+├── templates/
+│   └── home.html
+├── static/
+│   └── css/
+│       └── main.css
+├── myproject/
+│   ├── settings.py
+│   ├── urls.py
+│   ├── ...
+└── manage.py
